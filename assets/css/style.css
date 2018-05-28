@@ -1,0 +1,59 @@
+.container{
+    background: #ede8e8;
+    font-family: 'Exo', sans-serif;
+}
+.logo{
+    width: 150px;
+    margin-bottom: 50px;
+}
+
+nav a{
+    margin-bottom: 100px;
+}
+
+.content{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 50em;
+    background: white;
+}
+
+.movies{
+    display: block;
+    margin: 20px;
+    text-align: center;
+
+}
+
+.home_img{
+    height: 250px;
+
+}
+
+.home_title{
+    color: rgb(248, 66, 66);
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.home_title:hover{
+    color: black;
+}
+
+
+
+#about{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 50px 250px;
+    
+}
+
+#description{
+    width: 400px;
+}
+
